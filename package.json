@@ -5,8 +5,9 @@
     "test": "node .validate"
   },
   "dependencies": {
+    "algorithm-visualizer": "^2.3.9",
+    "canvas": "^3.0.1",
     "fs-extra": "^8.0.1",
-    "signale": "^1.4.0",
-    "algorithm-visualizer": "latest"
+    "signale": "^1.4.0"
   }
 }
